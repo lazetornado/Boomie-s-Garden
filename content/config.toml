@@ -1,0 +1,4 @@
+baseURL = "https://your-netlify-site.netlify.app"
+languageCode = "en-us"
+title = "Boomie’s Garden"
+theme = "quartz"
